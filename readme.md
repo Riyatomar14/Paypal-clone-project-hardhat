@@ -1,4 +1,4 @@
-# how to start making PAYPAL PROJECT 
+# PAYPAL PROJECT 
 
 * on vscode
   
