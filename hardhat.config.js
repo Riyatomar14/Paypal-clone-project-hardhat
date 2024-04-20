@@ -2,8 +2,8 @@
 const { HardhatUserConfig } = require("hardhat/config");
 require("@nomicfoundation/hardhat-toolbox");
 
-const ALCHEMY_API_KEY = "lHKDs2rJRWar0UkkaZYIPAC7E5UHA_M9";
-const SEPOLIA_PRIVATE_KEY = "63e0c4f74207abf2927d12d82f00b5b4630f7006a8ad6dddea69116d381165cb";
+const ALCHEMY_API_KEY = "your alchemy apikey";
+const SEPOLIA_PRIVATE_KEY = "your sepolia private key";
 
 module.exports = {
   solidity: "0.8.24",
@@ -14,6 +14,6 @@ module.exports = {
     }
   },
   etherscan: {
-    apiKey: "CABM24C9HZ48NHFC257WZJJA1AJ71VV7FP", // Corrected 'apikey' to 'apiKey'
+    apiKey: "your api key",'
   }
 };
