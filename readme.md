@@ -104,9 +104,25 @@ npx hardhat verify your address --network sepolia
 
 ![Screenshot 2024-04-20 115048](https://github.com/Riyatomar14/Paypal-clone-project-hardhat/assets/143107173/9cc934c0-899c-4888-a866-a0d1bae04037)
 
+# now for backend 
+
+https://github.com/Riyatomar14/Paypal-clone-project-hardhat/blob/main/folder2/payPalStarter/backend/index.js
+
+* b) run the command to host locally
+
+```
+node index.js
+```
+
+![Screenshot 2024-04-21 110520](https://github.com/Riyatomar14/Paypal-clone-project-hardhat/assets/143107173/5a699b73-d17f-4457-baaa-c7bdba657a1b)
+
+b) search on chrome like this -
+
+![image](https://github.com/Riyatomar14/Paypal-clone-project-hardhat/assets/143107173/86e905bb-af63-421b-a22e-7733ee416c58)
+
+# now for frontend
 
 
-  
 
 
 
