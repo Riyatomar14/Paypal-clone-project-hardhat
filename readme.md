@@ -118,7 +118,7 @@ node index.js
 
 b) search on chrome like this -
 
-![image](https://github.com/Riyatomar14/Paypal-clone-project-hardhat/assets/143107173/86e905bb-af63-421b-a22e-7733ee416c58)
+![Screenshot 2024-04-21 111221](https://github.com/Riyatomar14/Paypal-clone-project-hardhat/assets/143107173/f5f7ca56-455e-4ff8-949e-330e4353b70a)
 
 # now for frontend
 
