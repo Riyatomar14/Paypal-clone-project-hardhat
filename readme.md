@@ -108,15 +108,27 @@ npx hardhat verify your address --network sepolia
 
 https://github.com/Riyatomar14/Paypal-clone-project-hardhat/blob/main/folder2/payPalStarter/backend/index.js
 
+* a) by react
+  
+```
+npx create-react-app paypal
+```
+  
+
 * b) run the command to host locally
 
 ```
-node index.js
+npm start
 ```
 
-![Screenshot 2024-04-21 110520](https://github.com/Riyatomar14/Paypal-clone-project-hardhat/assets/143107173/5a699b73-d17f-4457-baaa-c7bdba657a1b)
+![Screenshot 2024-04-21 153042](https://github.com/Riyatomar14/coding-in-advance-c/assets/143107173/b9efd5f3-a76e-42d3-be44-0fb64f9f095b)
 
-b) search on chrome like this -
+![Screenshot 2024-04-21 153057](https://github.com/Riyatomar14/coding-in-advance-c/assets/143107173/97c9882f-343d-41c8-85ff-9473cea7530e)
+
+![Screenshot 2024-04-21 153241](https://github.com/Riyatomar14/coding-in-advance-c/assets/143107173/62831848-16c6-4cc5-9577-382a23ef2626)
+
+
+b) you see like this-
 
 ![Screenshot 2024-04-21 111221](https://github.com/Riyatomar14/Paypal-clone-project-hardhat/assets/143107173/f5f7ca56-455e-4ff8-949e-330e4353b70a)
 
