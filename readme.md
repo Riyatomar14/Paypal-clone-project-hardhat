@@ -127,6 +127,7 @@ npm start
 
 ![Screenshot 2024-04-21 153241](https://github.com/Riyatomar14/coding-in-advance-c/assets/143107173/62831848-16c6-4cc5-9577-382a23ef2626)
 
+![Screenshot 2024-04-21 161615](https://github.com/Riyatomar14/Cpp/assets/143107173/a12bb486-ad51-4afe-8fab-ba4d3033d2a5)
 
 b) you see like this-
 
@@ -134,12 +135,33 @@ b) you see like this-
 
 # now for frontend
 
+first you have set the folder in vs code like this https://github.com/Riyatomar14/Paypal-clone-project-hardhat/tree/main/riyatomar/web3-paypal
+
+* a) then you have connect the paypal to metamask on react
+
+![Screenshot 2024-04-21 161829](https://github.com/Riyatomar14/Paypal-clone-project-hardhat/assets/143107173/2754a978-8e16-423b-a1ac-fd525661cce8)
+
+![Screenshot 2024-04-21 161911](https://github.com/Riyatomar14/Paypal-clone-project-hardhat/assets/143107173/c833a30a-5938-4fb8-a189-01058aa9c29b)
 
 
-
-
+* b) now you have to put Account1 address and sender adress(in my case Account2)
   
+![Screenshot 2024-04-21 162515](https://github.com/Riyatomar14/Paypal-clone-project-hardhat/assets/143107173/ac53690c-f6b1-4cf5-b8ac-34bdece04b59)
 
+![Screenshot 2024-04-21 162225](https://github.com/Riyatomar14/Paypal-clone-project-hardhat/assets/143107173/db324008-7890-4632-8ce6-04de22b450cc)
+
+
+* c) after transaction get successful it will look like this
+  
+![Screenshot 2024-04-21 162654](https://github.com/Riyatomar14/Paypal-clone-project-hardhat/assets/143107173/36a63d7b-dece-4d4f-8101-52e2e710d616)
+
+* d) you can also add the recipient like this way
+  
+![Screenshot 2024-04-21 162751](https://github.com/Riyatomar14/Paypal-clone-project-hardhat/assets/143107173/980ae81b-1845-4f9b-8b0c-f7d9272f8002)
+
+![Screenshot 2024-04-21 162828](https://github.com/Riyatomar14/Paypal-clone-project-hardhat/assets/143107173/b1b33e44-975b-47e1-935a-6b8d2ad11b44)
+  
+  
 
 
 
