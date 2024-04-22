@@ -36,6 +36,11 @@ npm install --save-dev @nomicfoundation/hardhat-toolbox
  
 https://github.com/Riyatomar14/Paypal-clone-project-hardhat/blob/main/hardhat.config.js
 
+note : also signup with alchemy
+
+![Screenshot 2024-04-22 145946](https://github.com/Riyatomar14/Paypal-clone-project-hardhat/assets/143107173/ba7d312d-9c15-4ebd-bc5f-1f7f6f2018bf)
+![Screenshot 2024-04-22 145929](https://github.com/Riyatomar14/Paypal-clone-project-hardhat/assets/143107173/560a968d-6cf6-496a-bdac-d6b9f45d090f)
+
 * 6. now you are ready to depoly live on network testnet
 
 ```
@@ -103,6 +108,8 @@ npx hardhat verify your address --network sepolia
 * f) now can also also check the history in "read contracts"
 
 ![Screenshot 2024-04-20 115048](https://github.com/Riyatomar14/Paypal-clone-project-hardhat/assets/143107173/9cc934c0-899c-4888-a866-a0d1bae04037)
+![Screenshot 2024-04-22 145634](https://github.com/Riyatomar14/Paypal-clone-project-hardhat/assets/143107173/882b3efe-a0bc-4565-902f-50186f2a46d9)
+
 
 # now for backend 
 
