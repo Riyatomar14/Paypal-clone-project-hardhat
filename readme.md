@@ -1,4 +1,4 @@
-# PAYPAL PROJECT DAPP
+# PAYPAL DAPP
 
 # what is dapps 
 
