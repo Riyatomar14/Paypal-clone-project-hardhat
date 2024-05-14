@@ -1,4 +1,19 @@
-# PAYPAL PROJECT 
+# PAYPAL PROJECT DAPP
+
+# what is dapps 
+
+A decentralized application (DApp) is a type of distributed, open source software application that runs on a peer-to-peer (P2P) blockchain network rather than on a single computer. DApps are similar to other software applications that are supported on a website or mobile device, but they're P2P supported. DApps are considered part of Web3, the present evolution of the World Wide Web.
+
+The decentralized nature of DApps means that, once a developer has released a DApp's codebase, others can build on top of it. The app is not controlled by a single authority. DApp development creates a variety of applications, including those for decentralized finance, web browsing, gaming and social media.
+
+DApps are built on a decentralized network supported by a blockchain distributed ledger. The use of blockchain means a DApp can process data through distributed networks and execute transactions. DApps are often built using the Ethereum platform.
+
+Distributed ledger technologies, such as the Ethereum blockchain, have helped popularize DApps. The major advantages of DApps are that they're always accessible and have no single point of failure.
+
+# wallets 
+
+![Screenshot 2024-05-14 140334](https://github.com/Riyatomar14/Cpp--college-PRACTICAL/assets/143107173/85572319-570c-40b0-a559-eb88323feaa4)
+
 
 ## RPC providers:
 
@@ -22,6 +37,18 @@ Blast API
 
 GetBlock
 
+## flowchart-
+
+![Screenshot 2024-05-14 134041](https://github.com/Riyatomar14/Cpp--college-PRACTICAL/assets/143107173/d6ffd467-cf72-4bd3-ada4-73a0abd0f571)
+
+## dapp arhitecture 
+
+![image](https://github.com/Riyatomar14/Cpp--college-PRACTICAL/assets/143107173/10653bfc-eae0-4406-a777-d4ca57a6b1d4)
+
+# tools required for dapp
+
+![image](https://github.com/Riyatomar14/Cpp--college-PRACTICAL/assets/143107173/67cebeeb-b19c-4062-bcb3-4aea34d8dd2a)
+
 # Prerequisites-
 
 Ubuntu install in your machine.
@@ -34,17 +61,6 @@ Account on Alchemy or Infura for API
 
 Metamask account and their browser extension installed on your browser
 
-## flowchart-
-
-![Screenshot 2024-05-14 134041](https://github.com/Riyatomar14/Cpp--college-PRACTICAL/assets/143107173/d6ffd467-cf72-4bd3-ada4-73a0abd0f571)
-
-## dapp arhitecture 
-
-![image](https://github.com/Riyatomar14/Cpp--college-PRACTICAL/assets/143107173/10653bfc-eae0-4406-a777-d4ca57a6b1d4)
-
-# tools required for dapp
-
-![image](https://github.com/Riyatomar14/Cpp--college-PRACTICAL/assets/143107173/67cebeeb-b19c-4062-bcb3-4aea34d8dd2a)
 
 * on vscode
   
