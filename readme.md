@@ -42,7 +42,7 @@ Metamask account and their browser extension installed on your browser
 
 ![image](https://github.com/Riyatomar14/Cpp--college-PRACTICAL/assets/143107173/10653bfc-eae0-4406-a777-d4ca57a6b1d4)
 
-# tools reqired for dapp
+# tools required for dapp
 
 ![image](https://github.com/Riyatomar14/Cpp--college-PRACTICAL/assets/143107173/67cebeeb-b19c-4062-bcb3-4aea34d8dd2a)
 
