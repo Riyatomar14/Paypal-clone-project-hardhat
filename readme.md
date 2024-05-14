@@ -1,5 +1,51 @@
 # PAYPAL PROJECT 
 
+## RPC providers:
+
+OnFinality
+
+Pocket Network
+
+Infura
+
+Alchemy
+
+Blockdaemon
+
+Ankr
+
+Quicknode
+
+Chainstack
+
+Blast API
+
+GetBlock
+
+# Prerequisites-
+
+Ubuntu install in your machine.
+
+Node.js (version 18 and above) installed on your machine
+
+Hardhat for Ethereum smart contract development
+
+Account on Alchemy or Infura for API
+
+Metamask account and their browser extension installed on your browser
+
+## flowchart-
+
+![Screenshot 2024-05-14 134041](https://github.com/Riyatomar14/Cpp--college-PRACTICAL/assets/143107173/d6ffd467-cf72-4bd3-ada4-73a0abd0f571)
+
+## dapp arhitecture 
+
+![image](https://github.com/Riyatomar14/Cpp--college-PRACTICAL/assets/143107173/10653bfc-eae0-4406-a777-d4ca57a6b1d4)
+
+# tools reqired for dapp
+
+![image](https://github.com/Riyatomar14/Cpp--college-PRACTICAL/assets/143107173/67cebeeb-b19c-4062-bcb3-4aea34d8dd2a)
+
 * on vscode
   
 * 1. first install hardhat
